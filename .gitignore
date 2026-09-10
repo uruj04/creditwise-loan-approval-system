@@ -12,7 +12,7 @@ env/
 .venv/
 ENV/
 
-# Environment variables (if you ever add API keys/secrets)
+# Environment variables
 .env
 
 # OS-specific files
@@ -22,13 +22,6 @@ Thumbs.db
 # IDE/editor settings
 .vscode/
 .idea/
-
-# Model artifacts (optional — only ignore if these are large or regenerable, not if you want them in the repo)
-# *.pkl
-# *.joblib
-
-# Data files (optional — only ignore if the dataset is large or you don't want raw data tracked)
-# *.csv
 
 # Logs
 *.log
